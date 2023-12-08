@@ -1,0 +1,4 @@
+1. Place the 'drivers' directory on the root of C:\
+2. Run the pre batch while still in VMware
+3. Migrate
+4. Run the post batch via the console once running on Nutanix
